@@ -91,12 +91,6 @@ streamlit run movie.py
 
 ---
 
-## Dashboard Live Preview
-```bash
-
-```
----
-
 ## Results & Insights
 - **Genre-based similarity works effectively:** Movies with similar genres are grouped together.  
 - **TF-IDF improves feature representation:** Highlights important genres and downplays common ones.  
