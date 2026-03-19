@@ -4,5 +4,3 @@ scikit-learn
 matplotlib
 seaborn
 streamlit
-TfidfVectorizer
-cosine_similarity
