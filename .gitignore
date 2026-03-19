@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env/
+.env.*
+
+# Data files
+*.csv
+*.xlsx
+*.sqlite
+
+# Streamlit
+.streamlit/
+
+# System files
+.DS_Store
+Thumbs.db
