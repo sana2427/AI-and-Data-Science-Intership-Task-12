@@ -82,7 +82,7 @@ User ratings provide additional insights into popularity and distribution.
   - Rating distribution histogram  
   - Genre bar chart  
 
-### 6️⃣ Dashboard Deployment
+### 7️⃣ Dashboard Deployment
 - Ran dashboard locally using:
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn streamlit
