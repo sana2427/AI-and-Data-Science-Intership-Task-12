@@ -1,4 +1,4 @@
-# Task 2: Content-Based Movie Recommendation System with Streamlit GUI
+# Task 2: Recommendation System with Streamlit GUI
 
 ## Overview
 This repository contains the solution for Task 2: Building a **content-based movie recommendation system** using the **MovieLens dataset**.  
@@ -82,6 +82,19 @@ User ratings provide additional insights into popularity and distribution.
   - Rating distribution histogram  
   - Genre bar chart  
 
+### 6️⃣ Dashboard Deployment
+- Ran dashboard locally using:
+```bash
+pip install pandas numpy scikit-learn matplotlib seaborn streamlit
+streamlit run movie.py
+```
+
+---
+
+## Dashboard Live Preview
+```bash
+
+```
 ---
 
 ## Results & Insights
